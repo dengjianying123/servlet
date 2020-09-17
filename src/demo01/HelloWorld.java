@@ -8,6 +8,8 @@ public class HelloWorld {
 		System.out.println("77");
 		System.out.println("88");
 		System.out.println("又做了修改");
+		System.out.println("修改....");
+		System.out.println("修改....");
 	}
 
 }
